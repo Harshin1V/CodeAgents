@@ -2,7 +2,8 @@
 
 
 
-
+- Research Reference: Executable Code Actions Elicit Better LLM Agents (arXiv:2402.01030)
+  https://arxiv.org/abs/2402.01030
 
 
 
