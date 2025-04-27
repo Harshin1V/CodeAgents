@@ -1,13 +1,6 @@
-# Code Agents with Hugging Face smolagents
-
-
-
-- Research Reference: Executable Code Actions Elicit Better LLM Agents (arXiv:2402.01030)
-  https://arxiv.org/abs/2402.01030
-
 # 🧠 Code Agents with Hugging Face smolagents
 
-**Research Reference:** [Executable Code Actions Elicit Better LLM Agents](https://arxiv.org/abs/2402.01030)
+**Research Reference:** [Executable Code Actions Elicit Better LLM Agents](/https://arxiv.org/abs/2402.01030)
 
 This repository explores the evolution of AI agents, demonstrating how they can autonomously perform tasks by leveraging Hugging Face's smolagents. The project progresses through various stages of agent development, from basic conversational agents to advanced memory-based systems.
 
